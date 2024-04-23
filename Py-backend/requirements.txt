@@ -1,0 +1,10 @@
+accelerate
+diffusers
+Flask
+Flask-Cors
+huggingface-hub
+numpy
+requests
+torch
+transformers
+tokenizers
